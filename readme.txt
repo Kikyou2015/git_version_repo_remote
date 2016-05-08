@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 
 NiHonGou no benkyou no koto wa kitsui.
+My stupid boss still prefers SVN.
