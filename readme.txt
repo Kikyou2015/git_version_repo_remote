@@ -3,4 +3,4 @@ Git is free software under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
 
-NiHonGou no benkyou.
+NiHonGou no benkyou no koto wa kitsui.
