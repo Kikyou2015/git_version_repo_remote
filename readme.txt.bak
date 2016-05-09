@@ -6,4 +6,4 @@ Git tracks changes of files.
 NiHonGou no benkyou no koto wa kitsui.
 My stupid boss still prefers SVN.
 
-Remote repo update success!
+Remote repo update success!ºÃ¿ªÐÄÅ¶£¡
