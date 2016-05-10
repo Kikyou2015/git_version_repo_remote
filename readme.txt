@@ -8,4 +8,4 @@ My stupid boss still prefers SVN.
 
 Remote repo update success!ºÃ¿ªÐÄÅ¶£¡
 
-Creating a branch is quick & simple!
+Creating a branch is quick and simple!
