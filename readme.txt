@@ -9,3 +9,5 @@ My stupid boss still prefers SVN.
 Remote repo update success!ºÃ¿ªÐÄÅ¶£¡
 
 Creating a branch is quick and simple!
+
+In present,I am working nomally... Done  push!
